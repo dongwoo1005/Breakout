@@ -1,7 +1,6 @@
 
 Breakout!
 =========
-- CS349 Assignment 1
 - Created by Dongwoo Son
 - Created at Jan 28, 2015
 - Email: d3son@uwaterloo.ca
